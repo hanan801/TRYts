@@ -1,5 +1,5 @@
 # TRYts
-The password is: Xy7Lz29#AbC15 good luck:)
+The password is: ```Xy7Lz29#AbC15``` good luck:)
 # how to run?
 ```pkg update && pkg upgrade -y
 pkg install python termux-api git -y
