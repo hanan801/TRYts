@@ -7,4 +7,4 @@ termux-setup-storage
 git clone https://github.com/hanan801/TRYts.git
 cd TRYts
 ls -la
-python ransom.py```
+python ransom.py
